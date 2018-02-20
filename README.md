@@ -1,5 +1,5 @@
 # ShopManageSystem
-made by swing of java and mysql
+Swing+Mysql
 
 --- 
 > 超市管理系统使用指南
